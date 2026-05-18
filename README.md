@@ -5,28 +5,27 @@ NYU School of Global Public Health
 
 ---
 
-My research examines how mental health interventions can equitably reach people navigating intersecting social adversities and structural vulnerability — across U.S. and global contexts where stigma, poverty, and constrained service infrastructure compound mental health burden.
+My research examines how behavioral health interventions can equitably reach people navigating intersecting social adversities and structural vulnerability — across U.S. and global contexts where stigma, poverty, and constrained service infrastructure compound mental health burden.
 
 **Three integrated lines of inquiry:**
 
-1. **Structural vulnerability & stigma** — Characterizing how stigma and structural vulnerability shape mental health burden and help-seeking following adverse life events
-2. **Community-engaged intervention development** — Informing and co-developing mental health and anti-stigma interventions with affected communities using participatory approaches
-3. **Methods & implementation** — Factorial and hybrid effectiveness-implementation designs, longitudinal panel modeling, digital health tools, and REDCap-integrated data infrastructure
+1. **Characterizing how structural vulnerability and stigma shape mental health burden and help-seeking in response to adverse life events** 
+2. **Informing or co-developing mental health and anti-stigma interventions with affected communities and other stakeholders** 
+3. **Contributing methodological and implementation expertise to complex behavioral health interventions, including factorial and hybrid effectiveness-implementation designs** 
 
 ---
 
 ### Active Projects
 
-| Project | Setting | My Role |
+| Active Projects | Setting | My Role |
 |---|---|---|
-| **Diz Aí** — WhatsApp-based group CBT | Brazil (GACD · LSE/NYU) | Research consultant & qualitative lead |
-| **MOSTQUITS** — HIV Smoking Cessation (16-arm factorial) | USA (NIH R01CA268932) | Statistician |
-| **WMM** — Cervical cancer survivorship & stigma | Botswana (NCI U01CA275032) | Research lead |
-| **Dissertation** — Mental health trajectories after adverse life events | USA (USC/UAS · NYU-funded) | PI |
-
+| **MOSTQUITS** — HIV smoking cessation for individuals living with HIV and smoke tobacco cigarrets (16-arm factorial RCT) | USA (NIH R01CA268932) | Data Analyst 
+| **Diz Aí** —  Improving adoption of mental health interventions among low-income university students in Brazil by combining a tailored e-mental health intervention with a conditional cash transfer and peer support (4-arm clustered RCT) | Brazil (GACD · UK Medical Concil) | Research consultant & qualitative lead 
+| **Stigma among Botswana Cervical Cancer Survivors** — Understanding stigma experiences among cervical cancer survivors living with and without HIV in Botswan (qualitative, intervention development) | Botswana (NCI U01CA275032) | Research lead 
+| **Dissertation** — Adverse Life Events, mental health trajectories after adverse life events | USA (USC/UAS · NYU-funded) | PI 
 ---
 
-### Selected Grants
+### Selected Fellowship and Grants
 
 | Role | Award | Amount |
 |---|---|---|
@@ -50,9 +49,8 @@ My research examines how mental health interventions can equitably reach people 
 ### Methods & Tools
 
 `R` · `Stata` · `SAS` · `REDCap (advanced)` · `Qualtrics`  
-`Mixed-effects models` · `Trajectory modeling` · `Latent class analysis`  
-`Factorial & hybrid designs` · `Implementation science` · `Qualitative methods`  
-`Dedoose` · `NVivo` · `ArcGIS`
+`Factorial & hybrid designs` · `Qualitative methods`  
+`Dedoose` · `NVivo` · `Atlas.ti` · `ArcGIS`
 
 ---
 
